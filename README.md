@@ -1,7 +1,7 @@
 # Perfect Power Processing using Map Reduce
 
 ## About The Project
-Multithreading program which takes as imput a set of files and finds all the perfect powers grater than 0.
+Multithreading program which takes as input a set of files and finds all the perfect powers grater than 0.
 
 ## Implementation
 The program was built using C++ and Pthreads Library. 
